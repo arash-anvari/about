@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**arashanvari/arashanvari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👯 Skills / Languages
 
-Here are some ideas to get you started:
+- `<? php ?>` great
+- `{{ Laravel }}` great
+- `JavaScript` & `$(jQuery)` great
+- `DATABASE` & `SQL` very good
+- `PostgreSQL` good
+- `MySQL` good
+- `Redis` it's Easy
+- `<HTML>` + `{CSS}` + `@Less` + `$Sass` great
+- `Git` & `Git-Flow` great
+- `^ RegExp $` great
+- `$ Unix` good
+- Other skills not mentioned...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤔 ABOUT ME?
+Started programming when 15 (September , 2003) with PHP, Perl, C, C++.
+Built web applications with PHP and MySQL, PostgreSQL, Laravel, Yii2, Codeigniter, HTML5, CSS3, JavaScript and AJAX. 
+I have worked with CMS's such as WordPress and Joomla.
+
+## 💬 Portfoliooo 🎵 
+
+- biranj.com
+- arashanvari.ir
+- and more...
