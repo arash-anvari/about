@@ -16,12 +16,6 @@
 - Other skills not mentioned...
 
 ## 🤔 ABOUT ME?
-Started programming when 15 (September , 2003) with PHP, Perl, C, C++.
-Built web applications with PHP and MySQL, PostgreSQL, Laravel, Yii2, Codeigniter, HTML5, CSS3, JavaScript and AJAX. 
-I have worked with CMS's such as WordPress and Joomla.
+I have had experiance in PHP programming language since nearly 10 years, I have worked with so many frameworks such as Laravel, Codeigniter, Yii and also I have worked with MySql and Posgresql databases. I have experiance in Javascript and ECMA 6.
 
-## 💬 Portfoliooo 🎵 
-
-- biranj.com
-- arashanvari.ir
-- and more...
+anyway I love PHP and all of new challenges and I think ther is always room for improvment in this fields.
